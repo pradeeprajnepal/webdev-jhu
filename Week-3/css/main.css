@@ -1,0 +1,33 @@
+
+.navbar{
+    background-color: rgb(218, 161, 161);
+    padding:0;
+    margin:0;
+}
+
+.menu{
+    margin-bottom:40px !important;
+    padding:20px;
+}
+
+section{
+    background-color:rgb(128, 240, 234)
+}
+
+li .menu-item{
+    border:1px solid black !important;
+    text-align:center;
+    background-color:grey;
+    color:white !important;
+}
+
+.menu-item:hover{
+    background-color:black !important;
+}
+
+button:hover{
+    background-color:black !important;
+}
+
+
+
